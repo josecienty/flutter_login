@@ -1,16 +1,29 @@
-# login_app
+# 🔐 Login Flutter
 
-A new Flutter project.
+**Proyecto base en Flutter para formularios de login modernos.**  
+Diseñado como un punto de partida limpio, funcional y visualmente atractivo para cualquier aplicación móvil.  
+Disponible para la comunidad, porque el conocimiento se comparte, como el café y los buenos commits.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Características
 
-A few resources to get you started if this is your first Flutter project:
+- 🧼 UI moderna inspirada en patrones de diseño actuales
+- 📱 Soporte completo para móviles (pantalla completa + adaptabilidad)
+- 🔐 Campos de autenticación con visibilidad toggle (mostrar/ocultar contraseña)
+- 🎨 Fondo decorativo geométrico dinámico usando `CustomPainter`
+- 📡 Preparado para conectar con APIs de login reales o mock
+- 🧠 Estructura pensada para escalabilidad y modularización
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Capturas
+
+| Pantalla Principal |
+|--------------------|
+| ![screenshot](screenshot/screenshot.png) |
+
+> El diseño es responsive, con colores suaves y estructura pensada para UX de primer nivel.
+
+---
+
