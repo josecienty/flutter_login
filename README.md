@@ -21,7 +21,7 @@ Disponible para la comunidad, porque el conocimiento se comparte, como el café 
 
 | Pantalla Principal |
 |--------------------|
-| ![screenshot](screenshot/screenshot.png) |
+|<img src="screenshot/screenshot.png" alt="Login screen" width="350" />|
 
 > El diseño es responsive, con colores suaves y estructura pensada para UX de primer nivel.
 
